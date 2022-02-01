@@ -1,8 +1,7 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Andrew Okwe</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> My name is <strong>Andrew Okwe</strong></h1>
 
 <div align="center">
   <img src ="./banner.png" />
-  
 </div>
 
  <br/>
