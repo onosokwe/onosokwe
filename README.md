@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="10px" width="10px"> My name is <strong>Andrew Okwe</strong></h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="10px"> My name is <strong>Andrew Okwe</strong></h1>
 
  <br/>
 
