@@ -1,16 +1,16 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px" width="10px"> My name is <strong>Andrew Okwe</strong></h1>
+<h1 align="center">Hello, My name is <strong>Andrew Okwe</strong></h1>
 
  <br/>
 
 ## 👨🏻‍💻 A little about me:
 
-- 🔭 I’m currently working on an `EduTech Mobile Application`.
+- 🔭 I’m currently working on an `Fintech Web and Mobile Application`.
 
 - 🌱 I’m learning `Solidity` and `web3`
 
 - 👯 I’m looking to collaborate `Web and Mobile development Projects`
 
-- ⚡ Fun fact: I spend some of my time just pressing my phone
+- ⚡ Fun fact: I play scrabble, chess and monopoly.
 
 ## ❤️ Let's get connected on:
 
