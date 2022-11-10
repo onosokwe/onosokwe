@@ -12,3 +12,6 @@
 - 🌱 Well, I am currently learing `Web3` and building a `Finance` planning application using `Solidity`.
 - 👯 I’m open to collaborate on `Open Source Projects`.
 - ⚡ For fun, I see `movies` and play `scrabble`, `chess` or `monopoly`. Or visit `beaches` with family.
+
+
+
