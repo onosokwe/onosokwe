@@ -24,7 +24,7 @@
 -->
 ### Connect with me:
 
-[<img align="left" alt="onosokwe | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target= "_blank" />][twitter]
+[<img align="left" alt="onosokwe | Twitter" width="25px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target= "_blank" />][twitter]
 [<img align="left" alt="onosokwe | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  target= "_blank"/>][linkedin]
 [<img align="left" alt="onosokwe | Dev_dot_to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"  target= "_blank"/>][devto]
 
