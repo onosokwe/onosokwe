@@ -1,17 +1,29 @@
-<h1 align="center">Hello, My name is <strong>Andrew Okwe</strong></h1>
+<div align="right"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=purple&style=flat" alt="Views" /></div>
 
-## 👨🏻‍💻 A little about me:
+### Hi there, I'm Andrew Okwe
+
+---
+
 - 🔭 I learnt to operate the computer by myself
-- 👯 I’m a full stack software developer with demonstrable skills in `Front end Development` and `Back end Development`.
-- 👯 On the front end I use proficiently `React`, `Vuejs`, for building application interfaces.
-- 🔭 I also use `Redux`, `Mobx`, `Vuex` for state management.
-- 👯 I use `Nodejs`, `PHP - Laravel`, `Express` for `Back end Development`.
-- ⚡ I am very conversant and proficient in `NoSQL` and `SQL` databases, as I use `MongoDB`, `PostgreSQL`, `MySQL` for data storage.
-- ⚡ I have experience building `Fintech` applications, `Enterprise Resource Planning` Applications.
-- ⚡ Many of my applications have `thousands of daily users` and high level of daily interactions and transactions.
-- 🌱 Well, I am currently learing `Web3` and building a `Finance` planning application using `Solidity`.
-- 👯 I’m open to collaborate on `Open Source Projects`.
-- ⚡ For fun, I see `movies` and play `scrabble`, `chess` or `monopoly`. Or visit `beaches` with family.
+- 🌱 I’m currently fiddling around with `Typescript`. Life is learning 😉.
+- 👯 I’m open to collaborate on all kinds of `Projects`.
+- 🖊️ I am going to start putting my knowledge and experience into writing articles.
+- 🥅 My Goal is to learn more and build more.
+- ⚡ Fun fact: I see `movies` and play `scrabble`, `chess` or `monopoly`. Or visit `beaches` with family.
+
+---
+
+### Articles
+
+- [Getting started with Winston Logger; A beginner's guide](https://dev.to/onosokwe/getting-started-with-winston-logger-a-beginner-s-guide-7j3)
+- [Deploying and Hosting a Custom Domain on Vercel](https://jobizil.hashnode.dev/hosting-custom-domain-on-vercel)
+- [Deploy NodeJS app on Heroku using Github](https://jobizil.hashnode.dev/deploy-nodejs-app-on-heroku-using-github)
 
 
+---
 
+### Connect with me:
+
+[<img align="left" alt="onosokwe | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" target= "_blank" />][twitter]
+[<img align="left" alt="onosokwe | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  target= "_blank"/>][linkedin]
+[<img align="left" alt="onosokwe | Dev_dot_to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg"  target= "_blank"/>][devto]
