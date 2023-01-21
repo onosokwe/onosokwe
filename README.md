@@ -1,4 +1,4 @@
-<div align="right"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=purple&style=flat" alt="Views" /></div>
+<div align="right"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=blue&style=flat" alt="Views" /></div>
 
 ### Hi there, I'm Andrew Okwe
 
