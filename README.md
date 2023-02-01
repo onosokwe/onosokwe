@@ -1,6 +1,6 @@
 <div align="right"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=blue&style=flat" alt="Views" /></div>
 
-### Hi there, I'm Andrew Okwe
+<!-- ### Hi there, I'm Andrew Okwe -->
 
 ---
 
