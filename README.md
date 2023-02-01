@@ -18,8 +18,6 @@
 - [Getting started with Winston Logger; A beginner's guide](https://dev.to/onosokwe/getting-started-with-winston-logger-a-beginner-s-guide-7j3)
 - [Deploying and Hosting a Custom Domain on Vercel](https://jobizil.hashnode.dev/hosting-custom-domain-on-vercel)
 - [Deploy NodeJS app on Heroku using Github](https://jobizil.hashnode.dev/deploy-nodejs-app-on-heroku-using-github)
-
-
 ---
 -->
 ### Connect with me:
