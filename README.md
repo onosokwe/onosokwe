@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I learnt to operate the computer by myself
+- 🔭 I write in Javascript proficiently
 - 🌱 I’m currently fiddling around with `Typescript`. Life is learning 😉.
 - 👯 I’m open to collaborate on all kinds of `Projects`.
 - 🖊️ I am going to start putting my knowledge and experience into writing articles.
