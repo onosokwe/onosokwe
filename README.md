@@ -4,12 +4,12 @@
 
 ---
 
-- 🔭 I write in Javascript proficiently
-- 🌱 I’m currently fiddling around with `Typescript`. Life is learning 😉.
+- 🔭 I write in `Javascript` and `Typescript` proficiently.
+- 🌱 I have a positive attitude and I am adept towards learn new concepts.
 - 👯 I’m open to collaborate on all kinds of `Projects`.
 - 🖊️ I am going to start putting my knowledge and experience into writing articles.
 - 🥅 My Goal is to learn more and build more.
-- ⚡ Fun fact: I see `movies` and play `scrabble`, `chess` or `monopoly`. Or visit `beaches` with family.
+- ⚡ Fun fact: I love going to the `movies`, playing `scrabble`, `chess` or `monopoly`. Or visiting `beaches` with family.
 
 ---
 <!-- 
