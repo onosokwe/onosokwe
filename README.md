@@ -4,8 +4,9 @@
 
 ---
 
-- 🔭 I write in `Javascript`, `Typescript`, `Java`, `Python`, and `PHP` proficiently.
-- 🌱 I have a positive attitude and I am adept towards learning new concepts.
+- 🔭 I write in `Javascript`, `PHP`, and `Python` proficiently.
+- 🌱 I like to think of myself as someone with a very positive attitude.
+- 🥅 I love learning new concepts daily.
 - 👯 I’m open to collaborate on all kinds of `Projects`.
 - 🥅 My Goal is to learn more and build more.
 
