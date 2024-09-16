@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I write in `Javascript`, `PHP`, `C++`, `Golang`,  and `Python` proficiently.
+- 🔭 I write in `Javascript`, `Python`, `PHP`, and `Golang` proficiently.
 - 🌱 I like to think of myself as someone with a very positive attitude.
 - 🥅 I love learning new concepts daily.
 - 👯 I’m open to collaborate on all kinds of `Projects`.
