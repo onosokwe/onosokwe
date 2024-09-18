@@ -42,11 +42,4 @@ A human being first, then a developer who started asa frontend developer, then m
 
 ---
 
-### GitHub Stats:
-
-<a href="http://www.github.com/onosokwe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onosokwe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![Andrew's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onosokwe&theme=react)](https://github.com/onosokwe)
-
----
 
