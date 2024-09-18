@@ -35,7 +35,7 @@ A human being first, then a developer who started asa frontend developer, then m
 
 ### Some stats:
 
-<div align="left"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=blue&style=flat" alt="Views" /></div>
+<div align="left"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=blue&style=flat" alt="GitHub Views" /></div>
 
 [![wakatime](https://wakatime.com/badge/user/bf59d005-0d5f-461f-bc88-64d809894f7e.svg)](https://wakatime.com/@bf59d005-0d5f-461f-bc88-64d809894f7e) 
 
@@ -46,7 +46,7 @@ A human being first, then a developer who started asa frontend developer, then m
 
 <a href="http://www.github.com/onosokwe"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onosokwe&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Andrew's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onosokwe&theme=react)](https://github.com/onosokwe/github-readme-activity-graph)
+[![Andrew's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onosokwe&theme=react)](https://github.com/onosokwe)
 
 ---
 
