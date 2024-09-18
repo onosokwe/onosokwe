@@ -20,9 +20,9 @@
 [linkedin]: https://www.linkedin.com/in/onosokwe
 [devto]: https://dev.to/onosokwe
 
-<br> 
+---
 
-<br>
+### Some stats:
 
 <div align="left"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=blue&style=flat" alt="Views" /></div>
 
