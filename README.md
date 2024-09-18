@@ -1,7 +1,3 @@
-<div align="right"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=blue&style=flat" alt="Views" /></div>
-
-<div align="right"><img src="https://wakatime.com/badge/user/bf59d005-0d5f-461f-bc88-64d809894f7e.svg" alt="Wakatime" /></div>
-
 <!-- ### Hi there, I'm Andrew Okwe -->
 
 ---
@@ -30,3 +26,12 @@
 [twitter]: https://twitter.com/onosokwe
 [linkedin]: https://www.linkedin.com/in/onosokwe
 [devto]: https://dev.to/onosokwe
+
+<br> 
+
+<br>
+
+<div align="left"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=blue&style=flat" alt="Views" /></div>
+
+[![wakatime](https://wakatime.com/badge/user/bf59d005-0d5f-461f-bc88-64d809894f7e.svg)](https://wakatime.com/@bf59d005-0d5f-461f-bc88-64d809894f7e) 
+
