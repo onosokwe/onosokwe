@@ -1,5 +1,12 @@
 <!-- ### Hi there, I'm Andrew Okwe -->
 
+Hi 👋 My name is Andrew Okwe
+===============================================
+Fullstack Developer
+-----------------
+
+A human being first, then a developer who started on the web but is currently focused on Mobile (Flutter) developments. I am open to your ideas and enjoy contributing to open-source projects that interest me.
+
 ---
 
 - 🔭 I write in `Javascript`, `Python`, `PHP`, and `Golang` proficiently.
