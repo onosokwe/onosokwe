@@ -1,5 +1,7 @@
 <div align="right"><img src="https://komarev.com/ghpvc/?username=onosokwe&label=Views&color=blue&style=flat" alt="Views" /></div>
 
+<div align="right"><img src="https://wakatime.com/badge/user/bf59d005-0d5f-461f-bc88-64d809894f7e.svg" alt="Wakatime" /></div>
+
 <!-- ### Hi there, I'm Andrew Okwe -->
 
 ---
