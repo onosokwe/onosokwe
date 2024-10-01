@@ -9,7 +9,7 @@ A human being first, then a developer who started as a frontend developer (React
 
 ---
 
-- 🔭 I write in `Javascript`, `Python`, `PHP`, and `Golang` proficiently.
+- 🔭 I write in `Javascript`, `TypeScript`, `PHP`, and `Python` proficiently.
 - 🌱 I like to think of myself as someone with a very positive attitude.
 - 🥅 I love learning new concepts daily.
 - 👯 I’m open to collaborate on all kinds of `Projects`.
