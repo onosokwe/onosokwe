@@ -5,7 +5,7 @@ Hi 👋 My name is Andrew Okwe
 Fullstack Software Developer
 -----------------
 
-A human being first, then a developer who started as a frontend developer (React, Vue, Angular), then mobile (React Native) development but is currently focused on Backend (Node, Django) development. I am open to your ideas and enjoy contributing to interesting open-source projects.
+Human being trying to achieve human bot level. I started as a frontend developer (React, Vue, Angular), then became a mobile developer using `React Native`, then later `Flutter` for development but currently more focused on Backend development using (Node, Django). I am open to your ideas and enjoy contributing to interesting open-source projects.
 
 ---
 
