@@ -5,9 +5,11 @@ Hi 👋 My name is Andrew Okwe
 Fullstack Software Developer
 -----------------
 
-Human being trying to achieve human bot status.
+Human trying to achieve AI abilities.
 
-I started as a frontend developer (`React`, `Vue`, `Angular`), then became a mobile developer using `React Native` and `Flutter` for development, but currently more focused on Backend development using (`Node`, `Django`, `Laravel`). I am open to your ideas and enjoy contributing to interesting open-source projects.
+Frontend developer (`React`, `Vue`, `Angular`), mobile developer (`React Native`, `Flutter`), backend developer (`Node`, `Django`, `Laravel`). 
+
+I am open to new ideas, projects and enjoy contributing to interesting open-source projects.
 
 ---
 
