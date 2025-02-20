@@ -8,7 +8,9 @@ Fullstack Software Developer
 Human trying to achieve AI abilities.
 
 Frontend development (`React`, `Vue`, `Angular`)
+
 Mobile development (`React Native`, `Flutter`)
+
 Backend development (`Node.js`, `Django`, `Laravel`) 
 
 I am open to new ideas, projects and enjoy contributing to interesting open-source projects.
